@@ -1,5 +1,7 @@
 # Save your Yahoo Pipes definitions
 
+Yahoo Pipes goes read-only on August 30th 2015 and will be turned off completely on September 30th 2015, see the [announcement](http://pipes.yqlblog.net/post/120705592639/pipes-end-of-life-announcement).
+
 You can use this Python script to download your published Yahoo Pipes definitions as JSON files. Any pipes you created that are not published will be ignored.
 
 Follow these steps:
